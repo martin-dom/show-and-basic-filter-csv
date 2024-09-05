@@ -1,0 +1,23 @@
+.wrapper{
+    display: flex;
+    justify-content: space-evenly;
+}
+.filter{
+    width: 50%;
+    padding: 20px;
+    /* text-align: center; */
+}
+table{
+    background-color: rgb(215, 140, 41);
+    border-collapse: collapse;
+    width: 50%;
+    padding: 20px;
+    text-align: center;
+}
+td, th{
+    border: solid black 1px;
+    padding: 2px 5px;
+}
+.grupe{
+    display: block;
+}
